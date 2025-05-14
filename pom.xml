@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>drgsub_older</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
   <name>drgsub_older</name>
   <description>drgsub_older</description>
@@ -15,7 +15,7 @@
     <connection>scm:git:https://github.com/Samitha-001/olderIntegrationStudio.git</connection>
     <developerConnection>scm:git:https://github.com/Samitha-001/olderIntegrationStudio.git</developerConnection>
     <url>https://github.com/Samitha-001/olderIntegrationStudio.git</url>
-    <tag>HEAD</tag>
+    <tag>drgsub_older-1.1</tag>
   </scm>
   <distributionManagement>
     <repository>

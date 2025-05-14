@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>drgsub_older</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
   </parent>
   <groupId>com.example</groupId>
   <artifactId>drgsub_olderCompositeExporter</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>carbon/application</packaging>
   <name>drgsub_olderCompositeExporter</name>
   <description>drgsub_olderCompositeExporter</description>
